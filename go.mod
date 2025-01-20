@@ -11,7 +11,7 @@ require (
 	github.com/joho/godotenv v1.5.1
 	github.com/mattn/go-sqlite3 v1.14.24
 	github.com/spf13/cobra v1.8.1
-	google.golang.org/protobuf v1.35.2
+	google.golang.org/protobuf v1.36.3
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
 )
 
